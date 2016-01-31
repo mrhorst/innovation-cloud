@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I'm creating this app for studies purpose only, so don't expect much.
 
-Things you may want to cover:
+This is a clone from one of the codecademy's projects in the "Learning Rails" section.
+This app was made just for a better understanding of databases.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Next developments:
+- Check whether a given email is already stored into the DB or not.
